@@ -17,8 +17,5 @@ Dr Rachel Honnert
 
 Dr Florian Menter (ANSYS Chief Scientist)
 
-# Invited Speakers
-
 # Contributing Speakers
 
-# Attendees -->
