@@ -32,7 +32,7 @@ We encourage attendees to **arrange their accommodations early**, as our worksho
 
 Train: Exeter has a regular train connection with London Paddington (Heathrow Express)
 
-Airport: Exeter airport mainly serves tourist destinations but there are direct flights to/from Dublin all year round. Bristol airport (107 km ~ 66 miles away from Exeter) has a much wider network of international flights especially during summer.
+Airport: Exeter airport mainly serves tourist destinations but there are direct flights to/from Dublin all year round and Amsterdam during the summer. Bristol airport (107 km ~ 66 miles away from Exeter) has a much wider network of international flights especially during summer.
 
 Bus: Direct bus to and from Bristol Airport and London Heathrow.
 
