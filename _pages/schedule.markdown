@@ -8,7 +8,7 @@ nav_order: 3
 # Day 1: Monday 23 June 2025
 09:00 Georgios Efstathiou: Welcome - workshop objectives.
 
-09:10 Opening Talk: Katy Hill - Huw Lewis (Met Office): The Road to high-resolution NWP and importance of Hectometric NWP.
+09:10 Opening Talk: Katy Hill (Associate Director Foundation Science, Met Office) - Huw Lewis (Head Regional Model Evaluation & Development, Met Office): The Road to high-resolution NWP and importance of Hectometric NWP.
 
 # Session 1: Model Behaviour at Grey-Zone Resolutions | Chair: TBA
 
@@ -20,11 +20,11 @@ nav_order: 3
 
 10:40 Coffee Break
 
-11:00 Bowen Zhou (Nanjing University): Variations of Subgrid-Scale Turbulent Fluxes in the Dry Convective Boundary Layer at Gray Zone Resolutions
+11:00 Bowen Zhou (Nanjing University): Variations of Subgrid-Scale Turbulent Fluxes in the Dry Convective Boundary Layer at Gray Zone Resolutions.
 
 11:20 Stephan de Roode (TU Delft): Momentum Transport in Turbulent Atmospheric Boundary Layers.
 
-11:40 Paul Burns (Met Office): Coarse-Graining of High-Resolutions simulations to inform grey-zone turbulence modelling.
+11:40 Paul Burns (Met Office): Coarse-Graining of high-resolution simulations to inform grey-zone turbulence modelling.
 
 12:00 Panel discussion with session speakers
 
@@ -65,7 +65,6 @@ Daniela-Christin Littmann (German Weather Service - DWD): The Study of Near-Surf
 Robert Plant (University of Reading): A dynamic extension of the pragmatic blending scheme for scale-dependent sub-grid mixing.
 
 Matthew Coburn (University of Southampton): Increasing high-fidelity modelling efficiency with automated setup and validation of methodologies.
-
 
 # Day 2: Tuesday 24 June 2025
 
