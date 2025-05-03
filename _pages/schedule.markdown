@@ -102,7 +102,7 @@ Matthew Coburn (University of Southampton): Increasing high-fidelity modelling e
 
 15:30 Emanuelle Gentile (Princeton University): Enhanced simulations of low-level jets and moisture transport over the US great plains by directly prognosing momentum flux and using a generalised turbulence length-scale. 
  
-15:50 Adrian Lock (Met Office): TBA
+15:50 Adrian Lock (Met Office): Experiences and challenges for operational NWP in the turbulent grey zone.
 
 16:10 Paolo Gianni (Massachusetts Institute of Technology): Impact of Gray Zone Parameterizations on Realistic LES for Numerical Weather Prediction.
 
