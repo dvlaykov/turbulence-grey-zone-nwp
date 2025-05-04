@@ -51,7 +51,7 @@ Branko Kosovic (Johns Hopkins University)
 
 Isabelle Gorst (University of Reading)
 
-Emanuelle Gentile (Princeton University)
+Emanuele Silvio Gentile (Princeton University)
 
 Adrian Lock (Met Office)
 
