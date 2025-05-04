@@ -100,7 +100,7 @@ Matthew Coburn (University of Southampton): Increasing high-fidelity modelling e
 
 15:00 Coffee Break
 
-15:30 Emanuelle Gentile (Princeton University): Enhanced simulations of low-level jets and moisture transport over the US great plains by directly prognosing momentum flux and using a generalised turbulence length-scale. 
+15:30 Emanuele Silvio Gentile (Princeton University): Enhanced simulations of low-level jets and moisture transport over the US great plains by directly prognosing momentum flux and using a generalised turbulence length-scale. 
  
 15:50 Adrian Lock (Met Office): Experiences and challenges for operational NWP in the turbulent grey zone.
 
