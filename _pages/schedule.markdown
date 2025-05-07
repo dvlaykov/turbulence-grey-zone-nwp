@@ -66,6 +66,8 @@ Robert Plant (University of Reading): A dynamic extension of the pragmatic blend
 
 Matthew Coburn (University of Southampton): Increasing high-fidelity modelling efficiency with automated setup and validation of methodologies.
 
+Didier Ricard (Météo-France): C3IEL, the Cluster for Cloud evolution ClImatE and Lightning Mission to Study Convective Clouds at High Spatial and Temporal Resolution.
+
 # Day 2: Tuesday 24 June 2025
 
 # Session 3: A Computational Fluid Dynamics perspective on the LES - RANS Grey Zone | Chair: TBA
