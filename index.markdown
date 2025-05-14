@@ -28,4 +28,4 @@ This workshop will explore the challenges and recent advances in grey-zone turbu
 ## [Abstract submission and Registration](https://forms.office.com/e/Z6Mr44zVRG)
 
 **Abstract submission deadline:** 28 March 2025
-**Registration deadline:** 16 May 2025
+**Registration deadline:** 23 May 2025
