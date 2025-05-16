@@ -52,7 +52,7 @@ nav_order: 3
 
 # Poster Contributions:
 
-Lokahith Narendra Agasthya (Institute of Science and Technology Austria): Moist Convective Scaling: Insights from DNS and CRM simulations.
+Lokahith Narendra Agasthya (Institute of Science and Technology, Austria): Moist Convective Scaling: Insights from DNS and CRM simulations.
 
 Stephan de Roode (TU Delft): Dependency of mesoscale organization on grid anisotropy in large-eddy simulations of convective boundary layers at Gray Zone resolutions.
 
