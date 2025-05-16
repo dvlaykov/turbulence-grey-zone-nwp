@@ -68,7 +68,7 @@ Matthew Coburn (University of Southampton): Increasing high-fidelity modelling e
 
 Didier Ricard (Météo-France): C3IEL, the Cluster for Cloud evolution ClImatE and Lightning Mission to Study Convective Clouds at High Spatial and Temporal Resolution.
 
-Chi-Chiou (Chris) Cheung (ClusterTech): Numerical weather prediction at 200 m local resolution based on the unstructured grid CPAS model.
+Chi-Chiu (Chris) Cheung (ClusterTech): Numerical weather prediction at 200 m local resolution based on the unstructured grid CPAS model.
 
 # Day 2: Tuesday 24 June 2025
 
