@@ -75,4 +75,4 @@ Daniela-Christin Littmann (German Weather Service - DWD)
 
 Matthew Coburn (University of Southampton)
 
-Chi-Chiou (Chris) Cheung (ClusterTech)
+Chi-Chiu (Chris) Cheung (ClusterTech)
