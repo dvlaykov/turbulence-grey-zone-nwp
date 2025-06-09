@@ -46,9 +46,9 @@ nav_order: 3
 
 16:10 Panel discussion with session speakers.
 
-17:00 - 1900 Poster Session (Conference rooms 1 & 2, Xfi Building)
+17:00 - 19:00 Poster Session (Conference rooms 1 & 2, Xfi Building)
 
-1800 — 1900 Drinks and snacks reception (Conference rooms 1 & 2, Xfi Building)
+18:00 — 19:00 Drinks and snacks reception (Conference rooms 1 & 2, Xfi Building)
 
 # Poster Contributions:
 
