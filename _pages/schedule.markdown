@@ -6,6 +6,8 @@ nav_order: 3
 ---
 
 # Day 1: Monday 23 June 2025
+08:30 Arrival Coffee
+
 09:00 Georgios Efstathiou: Welcome - workshop objectives.
 
 09:10 Opening Talk: Katy Hill (Associate Director Foundation Science, Met Office) - Huw Lewis (Head Regional Model Evaluation & Development, Met Office): The Road to high-resolution NWP and importance of Hectometric NWP.
