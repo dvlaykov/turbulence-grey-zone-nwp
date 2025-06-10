@@ -134,9 +134,9 @@ Chi-Chiu (Chris) Cheung (ClusterTech): Numerical weather prediction at 200 m loc
 
 11:20 Panel Discussion with session speakers.
 
-12:10 Concluding Remarks.
+12:00 Concluding Remarks.
 
-12:30 - 14:00 Lunch
+12:20 - 13:30 Lunch
 
 End of Workshop
 
