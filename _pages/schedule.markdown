@@ -114,7 +114,7 @@ Chi-Chiu (Chris) Cheung (ClusterTech): Numerical weather prediction at 200 m loc
 
 16:30 - 1715 Panel discussion with session speakers
 
-19:00 Workshop Dinner (Reed Hall, Streatham Campus, University of Exeter)
+19:00 Workshop BBQ-style dinner (Reed Hall, Streatham Campus, University of Exeter)
 
 # Day 3: Wednesday 25 June 2025
 
