@@ -13,6 +13,7 @@ permalink: /schedule/abstracts/
 
 **Abstract:** Advancing prediction and projection capabilities for enhanced weather and climate services Dr Katy Hill, Associate Director Foundation Science, Met Office Dr Huw Lewis, Head Regional Model Evaluation & Development, Met Office  Working in partnership with others across the UK and internationally, the Met Office continues to explore the costs and benefits of enhancing model resolution, physics representation, coupling between environmental components, and ensemble design to optimise our delivery of weather and climate information to help people to stay safe and thrive. At the same time, rapid advances in data-driven machine learning offers new opportunities to both exploit our physics-based simulations to underpin these developments, as well as exploiting machine learning to enhance our physics-based models. This opening talk will highlight several current strands of Met Office research, with a focus on the successes and challenges of exploiting increasing model resolution.  For example, we have long known that better resolving orography, the land surface and small-scale physical processes can lead to improved predictions with km-scale regional models forming the backbone of daily weather forecasts and the UK’s national climate projections. UK research community efforts are currently assessing these approaches applied to global model domains to understand the role of upscale feedback from small to larger scales and the impact this may have on reducing systematic model errors. This is underpinned by development of a traceable model hierarchy, enabling exploration of different model physics choices on process representation across a range of scales.  Beyond km-scale, advancement of hectometric models have demonstrated the potential benefits of 100-m scale models for representing a range of phenomena, and enabled delivery of local scale information to some users. Moving to finer resolutions can bring new challenges, as will be discussed through the workshop, and briefly introduced in this talk.  The computational cost of km-scale global Earth system models or hectometric-scale national prediction and projections is a key constraint and may be unachievable or undesirable for full climate or operational weather forecasting applications. The rapid advance in data-driven downscaling, machine learning emulators and other application of AI therefore offer exciting prospects to bridge this gap, underpinned by high quality physical model capabilities, to provide usable information for society.
 
+---
 # Session 1
 **Author:** Rachel Honnert 
 
@@ -61,6 +62,7 @@ permalink: /schedule/abstracts/
 
 **Abstract:** TBA
 
+---
 # Session 2
 
 **Author:** Peter Clark (University of Reading)
@@ -105,6 +107,7 @@ permalink: /schedule/abstracts/
 
 **Abstract:** A synthetic inflow turbulence generator was implemented in the idealised Weather Research and Forecasting large eddy simulation (WRF-LES v3.6.1) model under neutral atmospheric conditions. This method is based on an exponential correlation function and generates a series of two-dimensional slices of data which are correlated both in space and in time. A WRF-LES simulation with periodic boundary conditions was conducted to provide prior mean profiles of first and second moments of turbulence for the synthetic turbulence generation method, and the results of the periodic case were also used to evaluate the inflow case. The inflow case generated similar turbulence structures to those of the periodic case after a short adjustment distance. The inflow case yielded a mean velocity profile and second-moment profiles that agreed well with those generated using periodic boundary conditions, after a short adjustment distance. For the range of the integral length scales of the inflow turbulence (±40 %), its effect on the mean velocity profiles is negligible, whereas its influence on the second-moment profiles is more visible. This implementation enables a WRF-LES simulation of a horizontally inhomogeneous case with non-repeated surface land-use patterns and can be extended so as to conduct a multi-scale seamless nesting simulation from a meso-scale domain with a kilometre-scale resolution down to LES domains with metre-scale resolutions.
 
+---
 # Session 3
 
 **Author:** Florian Menter (ANSYS)
@@ -162,6 +165,7 @@ Bruun, J. T., J. Icarus Allen, and T. J. Smyth (2017), Heartbeat of the Southern
 
 **Abstract:** TBA
 
+---
 # Session 4
 
 **Author:** Kirsty Hanley (Met Office)
@@ -215,6 +219,7 @@ Bruun, J. T., J. Icarus Allen, and T. J. Smyth (2017), Heartbeat of the Southern
 
 **Abstract:** Advances in computational power have enabled the use of fine-scale Large Eddy Simulations (LES) in numerical weather prediction, primarily in research settings. LES calculations are often nested within mesoscale models, with large-scale forcing provided by lateral boundaries at coarser resolutions and realistic topography and land use. However, the gray zone of turbulence challenge — where the intermediate domains necessary to couple LES and mesoscale models are too coarse for subgrid LES closures but too fine for traditional boundary layer parameterizations — has emerged as a significant bottleneck in achieving the mesoscale-to-LES coupling. LES solutions are notably sensitive to how turbulence is modeled in the parent gray zone domains. This study examines these sensitivities within the broader context of modeling decisions required for operational regional weather models. We focus on a dry case from 2017 over the Perdigão field site, using an ensemble of 36 configurations of the WRF model with five nested domains ranging from 11.25 km to 30 m resolution. Each configuration represents a unique combination of four key input factors: (i) large-scale initial and boundary conditions, (ii) subgrid turbulence parameterizations in the gray zone, (iii) subgrid-scale (SGS) models in LES, and (iv) topography and land-cover datasets. We probe the relative importance of these four factors for LES calculations of velocity, temperature, and moisture fields. Results indicate that topography and land use datasets are the primary sources of variability in time-averaged quantities across the ensemble. However, local sensitivities can be strongly influenced by gray zone parameterizations. We illustrate this with a case study, exploring the physical mechanisms by which different gray zone schemes produce markedly different wind estimates. We finally discuss the relative importance between gray zone parameterizations and other modeling choices in high-resolution numerical weather prediction.
 
+---
 # Session 5
 
 **Author:** Roel Neggers (University of Cologne)
@@ -250,6 +255,7 @@ Bruun, J. T., J. Icarus Allen, and T. J. Smyth (2017), Heartbeat of the Southern
 
 **Abstract:** This presentation discusses simulations of idealised, rain-laden downdraughts using the MONC large-eddy model. Each downdraught begins as a “cold, wet bubble” i.e. a spheroidal region of the lower atmosphere with a negative temperature perturbation and a non-zero liquid water content. The bubbles are statically unstable and evolve into downdraughts. The initial buoyancy split between liquid water and temperature reduction affects the downdraught structure, with a larger rain contribution suppressing horizontal downdraught expansion. A drier environment increases cooling in the downdraught, but reduces the peak in downdraught speed. Both these effects stem from increased rain evaporation. Most bubbles are initialised as spherical, but for spheroidal bubbles it is found that downdraughts intensify for an increased bubble height-to-width ratio, being greatest for vertically stretched bubbles and vice versa. The results indicate the effects that rain microphysics may have on km-scale downdraught structures in convective environments.
 
+---
 # Poster Session 
 
 **Author:** Alison Stirling (Met Office)
