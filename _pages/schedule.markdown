@@ -26,7 +26,7 @@ nav_order: 3
 
 11:20 Stephan de Roode (TU Delft): Momentum Transport in Turbulent Atmospheric Boundary Layers.
 
-11:40 Paul Burns (Met Office): Coarse-Graining of high-resolution simulations to inform grey-zone turbulence modelling.
+11:40 Paul Burns (Met Office): Filtering high-resolution UM simulations of idealised dry convective boundary layers to inform grey-zone turbulence modelling
 
 12:00 Panel discussion with session speakers
 
