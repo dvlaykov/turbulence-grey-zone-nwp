@@ -58,7 +58,7 @@ permalink: /schedule/abstracts/
 &nbsp;         
 **Author:** Paul Burns (Met Office)
 
-**Title:** Coarse-Graining of high-resolution simulations to inform grey-zone turbulence modelling.
+**Title:** Filtering high-resolution UM simulations of idealised dry convective boundary layers to inform grey-zone turbulence modelling
 
 **Abstract:** TBA
 
