@@ -13,7 +13,7 @@ Huw Lewis, Head Regional Model Evaluation & Development, Met Office
 
 # Featured Speakers
 
-Rachel Honnert 
+Rachel Honnert (Swedish Meteorological and Hydrological Institute)
 
 Florian Menter (ANSYS Chief Scientist)
 
