@@ -14,7 +14,7 @@ nav_order: 3
 
 # Session 1: Model Behaviour at Grey-Zone Resolutions | Chair: TBA
 
-09:30 Rachel Honnert (Featured talk): From grey-zone of turbulence to AROME-500m. 
+09:30 Rachel Honnert (Swedish Meteorological and Hydrological Institute) (Featured talk): From grey-zone of turbulence to AROME-500m. 
 
 10:00 Robert Beare (University of Exeter): The role of diffusion in boundary-layer turbulence simulation in the grey zone.
 
