@@ -12,7 +12,7 @@ nav_order: 3
 
 09:10 Opening Talk: Katy Hill (Associate Director Foundation Science, Met Office) - Huw Lewis (Head Regional Model Evaluation & Development, Met Office): The Road to high-resolution NWP and importance of Hectometric NWP.
 
-# Session 1: Model Behaviour at Grey-Zone Resolutions | Chair: TBA
+# Session 1: Model Behaviour at Grey-Zone Resolutions | Chair: Dimitar Vlaykov
 
 09:30 Rachel Honnert (Swedish Meteorological and Hydrological Institute) (Featured talk): From grey-zone of turbulence to AROME-500m. 
 
@@ -32,7 +32,7 @@ nav_order: 3
 
 12:45 - 14:00 Lunch  
 
-# Session 2: Parametrisation approaches in the grey zone | Chair: TBA
+# Session 2: Parametrisation approaches in the grey zone | Chair: Robert Beare
 
 14:00 Peter Clark (University of Reading): 3DTE: A non-downgradient turbulence parametrization for the turbulent grey-zone.
 
@@ -74,7 +74,7 @@ Chi-Chiu (Chris) Cheung (ClusterTech): Numerical weather prediction at 200 m loc
 
 # Day 2: Tuesday 24 June 2025
 
-# Session 3: A Computational Fluid Dynamics perspective on the LES - RANS Grey Zone | Chair: TBA
+# Session 3: A Computational Fluid Dynamics perspective on the LES - RANS Grey Zone | Chair: Peter Clark
 
 09:00 Arrival Coffee
 
@@ -96,7 +96,7 @@ Chi-Chiu (Chris) Cheung (ClusterTech): Numerical weather prediction at 200 m loc
 
 12:45 - 14:00 Lunch  
 
-# Session 4: Real-World Applications of Grey-Zone Modelling | Chair: TBA
+# Session 4: Real-World Applications of Grey-Zone Modelling | Chair: Paul Burns
 
 14:00 Kirsty Hanley (Met Office): Hectometric modelling for the Paris 2024 Olympic and Paralympic summer.
 
@@ -118,7 +118,7 @@ Chi-Chiu (Chris) Cheung (ClusterTech): Numerical weather prediction at 200 m loc
 
 # Day 3: Wednesday 25 June 2025
 
-# Session 5: Cumulus Convection in the Grey Zone | Chair: TBA
+# Session 5: Cumulus Convection in the Grey Zone | Chair: Bob Plant
 
 09:00 Arrival Coffee
 
