@@ -174,11 +174,20 @@ Bruun, J. T., J. Icarus Allen, and T. J. Smyth (2017), Heartbeat of the Southern
 
 --- 
 &nbsp;  
-**Author:** Dimitar Vlaykov (University of Exeter)
+**Author:** Dimitar G. Vlaykov (University of Exeter)
 
-**Title:** Dynamic Anisotropic Eddy-Diffusivity for multiscale simulations.
+**Title:** Dynamic anisotropic dddy-diffusivity for turbulent grey-zone CBL simulations.
 
-**Abstract:** TBA
+**Abstract:** 
+Numerical weather prediction simulations at sub-km scales fall squarely inside the turbulent grey zone (TGZ) resolution for convective boundary layers. In the TGZ, the turbulence inertial subrange is poorly represented. Thus, the dynamics is strongly dependent on the details of the turbulent subgrid scale (SGS) model. Moreover, the classical return-to-isotropy can be incomplete at the grid scales, especially with strong boundary forcing (convective or shear). The typical grid cell geometry (horizontally elongated cells with aspect-ratio reaching multiple factors of ten) exacerbates this and can lead to highly anisotropic numerical diffusion and dissipation. 
+The combination of these factors can affect both the morphology of the turbulent structures (rolls, plumes, etc.) as well as the energetics of the flow. However, SGS turbulence models have only recently begun to address this issue.
+
+This study investigates the coupling of the physical anisotropy of unresolved turbulence with the numerical anisotropy associated with the domain discretization and explicit SGS closures.
+We consider a static and dynamic Smagorinsky model implemented in the UK MetOffice’s UM code (using a semi-implicit semi-Lagrangian core) for grey zone simulatioxns and compare to a LES benchmark data.
+Specifically, we quantify the anisotropy of the momentum and heat fields, their transport, and dissipation in a suite of idealized, well-controlled simulations of the convective boundary layer.
+
+To address the isotropic models’ limitations, we develop a computationally tractable extension with anisotropic eddy-diffusivities for momentum and heat that significantly reduces the flow anisotropy in the dry convective boundary layer.
+
 
 ---
 # Session 4
