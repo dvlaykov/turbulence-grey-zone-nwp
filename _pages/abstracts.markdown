@@ -60,7 +60,22 @@ permalink: /schedule/abstracts/
 
 **Title:** Filtering high-resolution UM simulations of idealised dry convective boundary layers to inform grey-zone turbulence modelling
 
-**Abstract:** TBA
+**Abstract:** 
+Comparison of UM and filtered high-resolution solutions for well-developed
+dry convection using a blended subgrid turbulence scheme reveals a clear lack
+of smaller-scale horizontal variability in the total heat flux at gray zone
+resolutions $\geq$ 500 m. Power spectral analysis corroborates this and vertical profiles
+of heat flux components indicate a lack of horizontal variation in the UM subgrid
+heat flux. A lack of power at all scales was found for UM grid resolutions $\geq$ 1 km,
+indicating either the subgrid scheme extracts too much energy or a need for
+upscale energy transfers from the subfilter to resolved scales. Resolved flux
+was found to be too large for UM effective resolutions. Analysis of Cross, Reynolds
+and Leonard fluxes from the filtering are broadly similar
+to those of Moeng et al at filter scales about half the size of largest turbulent features,
+but that the assumption of a modified Clark model to parametrise both Leonard and
+Cross terms may not be safe for finer gray zone resolutions and close to the ground.
+Horizontal components of the Leonard and Cross terms were found to be as
+important as the vertical fluxes close to the ground.
 
 ---
 # Session 2
