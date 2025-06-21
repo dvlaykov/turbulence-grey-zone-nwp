@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Accommodation & Travel
+title: Accommodation & Venue
 permalink: /Logistics/
 nav_order: 2
 ---
@@ -38,7 +38,7 @@ Bus: Direct bus to and from Bristol Airport and London Heathrow.
 
 Local Bus: University's Streatham campus is served by Line 4 University stagecoach bus (every 10 - 15 mins).
 
-# Workshop site
+# Workshop Venue
 University of Exeter (Streatham Campus),
 Xfi Building, Henderson Lecture Theatre.
 
